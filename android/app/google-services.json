@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "187690064447",
+    "firebase_url": "https://testing-79002-default-rtdb.firebaseio.com",
+    "project_id": "testing-79002",
+    "storage_bucket": "testing-79002.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187690064447:android:445c06b7cab8fa22ca368a",
+        "android_client_info": {
+          "package_name": "com.example.chat_app3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187690064447-dk1u3a00143sfa7ekbkhc8cm19lmagr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz1pygR-HFQV80P-x4Y6SSoBmMD5KueM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187690064447-dk1u3a00143sfa7ekbkhc8cm19lmagr0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187690064447:android:c76d8113a893bd4bca368a",
+        "android_client_info": {
+          "package_name": "com.example.cupertino_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187690064447-dk1u3a00143sfa7ekbkhc8cm19lmagr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz1pygR-HFQV80P-x4Y6SSoBmMD5KueM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187690064447-dk1u3a00143sfa7ekbkhc8cm19lmagr0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187690064447:android:6585518b6710e9cbca368a",
+        "android_client_info": {
+          "package_name": "com.transporindo.tasorderan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187690064447-dk1u3a00143sfa7ekbkhc8cm19lmagr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz1pygR-HFQV80P-x4Y6SSoBmMD5KueM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187690064447-dk1u3a00143sfa7ekbkhc8cm19lmagr0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
